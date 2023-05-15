@@ -65,6 +65,17 @@
       "cost": 0,
       "services": [],
       "id": 6
+    },
+    {
+      "name": "Mustafa Eideh",
+      "budget": "50000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 7
     }
   ],
   "categories": [
