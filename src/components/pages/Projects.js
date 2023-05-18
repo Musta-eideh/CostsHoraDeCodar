@@ -7,7 +7,7 @@ import LinkButton from '../layout/LinkButton';
 
 import {useState, useEffect} from 'react';
 
-import styles from './Project.module.css'
+import styles from './Projects.module.css'
 import ProjectCard from '../project/ProjectCard';
 
 function Projects() {
